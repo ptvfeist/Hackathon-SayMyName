@@ -1,0 +1,37 @@
+2022/08/05-09:24:37.869 15403 Reusing MANIFEST /Users/codecadet/Desktop/HACKATON/project/scripts/.wwebjs_auth/session-client/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/05-09:24:37.869 15403 Recovering log #100
+2022/08/05-09:24:38.035 15403 Reusing old log /Users/codecadet/Desktop/HACKATON/project/scripts/.wwebjs_auth/session-client/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000100.log 
+2022/08/05-09:24:51.211 ee0b Level-0 table #109: started
+2022/08/05-09:24:51.264 ee0b Level-0 table #109: 1172910 bytes OK
+2022/08/05-09:24:51.285 ee0b Delete type=0 #100
+2022/08/05-09:24:51.782 9203 Compacting 1@1 + 5@2 files
+2022/08/05-09:24:51.989 9203 Generated table #110@1: 36597 keys, 2249732 bytes
+2022/08/05-09:24:52.216 9203 Generated table #111@1: 3625 keys, 2160622 bytes
+2022/08/05-09:24:52.415 9203 Generated table #112@1: 22222 keys, 2235121 bytes
+2022/08/05-09:24:52.656 9203 Generated table #113@1: 49825 keys, 2190517 bytes
+2022/08/05-09:24:53.032 9203 Generated table #114@1: 77271 keys, 1682491 bytes
+2022/08/05-09:24:53.032 9203 Compacted 1@1 + 5@2 files => 10518483 bytes
+2022/08/05-09:24:53.063 9203 compacted to: files[ 0 0 5 0 0 0 0 ]
+2022/08/05-09:24:53.065 9203 Delete type=2 #102
+2022/08/05-09:24:53.066 9203 Delete type=2 #103
+2022/08/05-09:24:53.066 9203 Delete type=2 #104
+2022/08/05-09:24:53.066 9203 Delete type=2 #105
+2022/08/05-09:24:53.066 9203 Delete type=2 #106
+2022/08/05-09:24:53.067 9203 Delete type=2 #109
+2022/08/05-10:18:13.747 f01b Level-0 table #116: started
+2022/08/05-10:18:13.807 f01b Level-0 table #116: 1310209 bytes OK
+2022/08/05-10:18:13.831 f01b Delete type=0 #108
+2022/08/05-10:21:18.777 6e1b Compacting 1@1 + 5@2 files
+2022/08/05-10:21:18.890 6e1b Generated table #117@1: 37723 keys, 2256912 bytes
+2022/08/05-10:21:18.967 6e1b Generated table #118@1: 3667 keys, 2163466 bytes
+2022/08/05-10:21:19.056 6e1b Generated table #119@1: 20927 keys, 2230310 bytes
+2022/08/05-10:21:19.268 6e1b Generated table #120@1: 45403 keys, 2189862 bytes
+2022/08/05-10:21:19.528 6e1b Generated table #121@1: 83942 keys, 1828159 bytes
+2022/08/05-10:21:19.528 6e1b Compacted 1@1 + 5@2 files => 10668709 bytes
+2022/08/05-10:21:19.551 6e1b compacted to: files[ 0 0 5 0 0 0 0 ]
+2022/08/05-10:21:19.555 6e1b Delete type=2 #116
+2022/08/05-10:21:19.555 6e1b Delete type=2 #114
+2022/08/05-10:21:19.555 6e1b Delete type=2 #110
+2022/08/05-10:21:19.555 6e1b Delete type=2 #111
+2022/08/05-10:21:19.555 6e1b Delete type=2 #113
+2022/08/05-10:21:19.555 6e1b Delete type=2 #112
