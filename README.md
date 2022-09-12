@@ -1,4 +1,4 @@
-# hackaton-whatsappBot
+Hackathon Project - "Say My Name" - Whatsapp Bot
 
 // Project Description
 Our final challenge as a group during our 12th week at <Academia de Código_> #71 & #73 Bootcamp @ Lisboa. For this Hackaton, we were challenged to develop a program within 24 hours using any technology that we knew, which should match with a given theme song.
